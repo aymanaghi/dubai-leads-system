@@ -2,6 +2,15 @@
 
 A modern, responsive landing page for an automated real estate lead generation system focused on Dubai properties.
 
+## Screenshot
+
+![Dubai Leads System Landing Page](./public/images/screenshot.png)
+
+> **Note:** To add a screenshot:
+> 1. Take a screenshot of your landing page (full page or hero section)
+> 2. Save it as `screenshot.png` in the `public/images/` directory
+> 3. The image will automatically appear above
+
 ## Features
 
 - 🎨 Modern, responsive design with Dubai-inspired color palette (gold, white, dark gray)
@@ -52,10 +61,10 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Color Palette
 
-- **Dubai Gold**: `#D4AF37` - Primary accent color
-- **Dark Gray**: `#2d2d2d` - Background and text
-- **White**: Clean, modern backgrounds
-- **Light Gray**: `#f5f5f5` - Section backgrounds
+- **Dubai Gold**: `#FFD700` - Primary accent color
+- **Charcoal**: `#1F2937` - Background and text
+- **White**: `#FFFFFF` - Clean, modern backgrounds
+- **Accent Blue**: `#3B82F6` - Secondary accent color
 
 ## Future Enhancements
 
